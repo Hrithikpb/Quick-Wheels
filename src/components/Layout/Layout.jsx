@@ -4,5 +4,12 @@ import Header from "../Header/Header";
 import Footer from "../Footer/Footer";
 import Routers from "../../routers/Routers";
 
+const Layout = () => {
+  return (
+    <React.Fragment>
+      <Routers />
+    </React.Fragment>
+  );
+};
 
 export default Layout
