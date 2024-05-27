@@ -1,5 +1,3 @@
-
-
 Rental and Services Management System (ReactJS, NodeJS, PostgreSQL, Django, REST API)
 
 Quick Wheels - Car Rental Website (Full Stack Project):
